@@ -66,7 +66,7 @@ function generarPda(){
     ${migra}
     ${libreSigres}
     -Headclerk: &nbsp;&nbsp;&nbsp;&nbsp;usd ${(headClerk * portStay).toLocaleString("en-US")}.<br/>
-    -Watchmen: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usd ${(watchmen * portStay).toLocaleString("en-US")}.<br/><br/>
+    -Watchmen: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usd ${(watchmen * portStay).toLocaleString("en-US")}. (Optional)<br/><br/>
     >>>En caso de no operar en OT se deberá habilitar permanencia, usd 350/shift.`
 
 }
